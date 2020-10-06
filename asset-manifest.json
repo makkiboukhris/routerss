@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/routerss/static/css/main.6452e301.chunk.css",
+    "main.js": "/routerss/static/js/main.933f6b90.chunk.js",
+    "main.js.map": "/routerss/static/js/main.933f6b90.chunk.js.map",
+    "runtime-main.js": "/routerss/static/js/runtime-main.73bdd5d5.js",
+    "runtime-main.js.map": "/routerss/static/js/runtime-main.73bdd5d5.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/routerss/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b8cac093.chunk.js": "/routerss/static/js/2.b8cac093.chunk.js",
+    "static/js/2.b8cac093.chunk.js.map": "/routerss/static/js/2.b8cac093.chunk.js.map",
+    "index.html": "/routerss/index.html",
+    "precache-manifest.8de976e2d98357bd06901260c9bf116e.js": "/routerss/precache-manifest.8de976e2d98357bd06901260c9bf116e.js",
+    "service-worker.js": "/routerss/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/routerss/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.6452e301.chunk.css.map": "/routerss/static/css/main.6452e301.chunk.css.map",
+    "static/js/2.b8cac093.chunk.js.LICENSE.txt": "/routerss/static/js/2.b8cac093.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73bdd5d5.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b8cac093.chunk.js",
+    "static/css/main.6452e301.chunk.css",
+    "static/js/main.933f6b90.chunk.js"
+  ]
+}
